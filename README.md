@@ -25,5 +25,17 @@ This is a great example of a real-world ML workflow from data to prediction.
 | User Interface | (Optional) Streamlit |
 
 ---
-
+## 📂 Project Structure
+Multi-Disease-Prediction/
+│
+├── dataset/
+│   ├── diabetes.csv
+│   └── heart.csv
+│
+├── diabetes_model.pkl
+├── heart_model.pkl
+├── disease_prediction.py
+├── app.py (optional)
+├── requirements.txt
+└── README.md
 
