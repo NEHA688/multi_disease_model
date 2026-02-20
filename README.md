@@ -26,5 +26,4 @@ This is a great example of a real-world ML workflow from data to prediction.
 
 ---
 
-## 📁 Repository Structure
 
