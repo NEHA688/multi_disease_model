@@ -127,7 +127,7 @@ def home():
     This app is designed to help you better understand your potential health risks using modern AI techniques. 
     Whether you're monitoring your health proactively or checking for warning signs, our **AI-powered models** give you fast and clear results.
     
-    Built using real medical datasets, the system analyzes your inputs and uses trained algorithms to provide risk predictions—all from the comfort of your home.
+    Built using real medical datasets, the system analyzes your inputs and uses trained algorithms to provide risk predictions all from the comfort of your home.
     """)
 
     # Diseases Covered
@@ -151,7 +151,7 @@ def home():
     Here's how the prediction process happens behind the scenes:
 
     **Step 1: Input Your Details**  
-    You start by entering your basic health and lifestyle information such as age, smoking habits, blood pressure, or blood sugar levels—depending on the disease you're checking.
+    You start by entering your basic health and lifestyle information such as age, smoking habits, blood pressure, or blood sugar levels depending on the disease you're checking.
 
     **Step 2: Behind-the-Scenes AI**  
     Once submitted, your data is sent to a machine learning model trained specifically for that disease. The models were built using thousands of real patient records to ensure reliable predictions.
@@ -160,7 +160,7 @@ def home():
     The model processes your data and makes a prediction in real time. It tells you whether you're likely at risk or not.
 
     **Step 4: Easy-to-Understand Output**  
-    You’ll see a simple result like "At Risk" or "Not at Risk"—no medical jargon, just actionable insights. 
+    You’ll see a simple result like "At Risk" or "Not at Risk" no medical jargon, just actionable insights. 
     """)
 
     # Summary
@@ -168,7 +168,7 @@ def home():
     st.markdown("""
     ✅ Understand potential health risks early  
     ✅ Take preventive action based on AI insights  
-    ✅ Clean, simple interface for everyone—no medical background needed  
+    ✅ Clean, simple interface for everyone no medical background needed  
     ✅ Free to use and privacy-focused  
     """)
 
